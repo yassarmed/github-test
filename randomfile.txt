@@ -1,3 +1,3 @@
 "hello world"
 "Frank sold 10 hot dogs last night"
-"Benny ate 12 of them"
+"Benny ate 10 of them"
